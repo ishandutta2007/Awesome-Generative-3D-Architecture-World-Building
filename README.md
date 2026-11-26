@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badgel&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Generative-3D-Architecture-World-Building/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Generative-3D-Architecture-World-Building?style=social&color=white" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Generative-3D-Architecture-World-Building/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Generative-3D-Architecture-World-Building?style=social&color=white" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Generative-3D-Architecture-World-Building/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Generative-3D-Architecture-World-Building?style=social&color=white" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta200?label=Follow" /></a>
 </p>
@@ -69,9 +69,9 @@ The sector is currently **moderately fragmented** across specialized proprietary
 
 ## 💻 Open-Source GitHub Projects
 
-*Sorted descending by GitHub star counts. Each star badge links to the repository's stargazers page.*
+*Sorted descending by GitHub Stars_Counts. Each Stars_Badge links to the repository's stargazers page.*
 
-| Project | Stars | License | Description |
+| Project | GitHub_Stars | License | Description |
 | :--- | :--- | :--- | :--- |
 | **[Blender (`blender/blender`)](https://github.com/blender/blender)** | [![Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers) | **GPL-2.0+** | The premier open-source 3D creation suite powering procedural geometry nodes, computational architecture, rendering, and synthetic world generation pipelines. |
 | **[Hunyuan3D-2 (`Tencent/Hunyuan3D-2`)](https://github.com/Tencent/Hunyuan3D-2)** | [![Stars](https://img.shields.io/github/stars/Tencent/Hunyuan3D-2?style=social&color=white)](https://github.com/Tencent/Hunyuan3D-2/stargazers) | **Tencent License** | State-of-the-art open-weight foundation model suite for high-resolution 3D asset generation with large-scale diffusion models. |
